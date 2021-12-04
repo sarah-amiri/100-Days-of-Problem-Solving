@@ -1,0 +1,9 @@
+# pycharm
+.idea
+.project
+.pydevproject
+
+# python
+**/*.pyc
+__pycache__/
+*.py[cod]
